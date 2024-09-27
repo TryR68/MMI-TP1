@@ -1,0 +1,15 @@
+header{
+    background-color: #0c9;
+    color: white;
+    display: flex;
+    align-items: center;
+
+}
+
+.gauche{
+    display: flex;
+}
+
+.droit{
+    display: flex;
+}
